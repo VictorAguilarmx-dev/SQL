@@ -1,5 +1,5 @@
 # Tipos de datos
-
+***
 ## Índice
 - [Numéricos](#numéricos)
     - [Números enteros](#números-enteros)

@@ -1,5 +1,5 @@
 # Comandos sobre una base de datos
-
+***
 ## Índice
 - [Creación de una base de datos](#creación-de-una-base-de-datos)
 - [Seleccionar una base de datos](#seleccionar-una-base-de-datos)

@@ -1,5 +1,5 @@
 # Introducción a SQL
-
+***
 ## Índice
 - [¿Qué es SQL?](#¿qué-es-sql)
 - [Historia de SQL](#historia-de-sql)

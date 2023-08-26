@@ -1,5 +1,5 @@
 # Introducción a MySQL
-
+***
 ## Índice
 - [Historia de MySQL](#historia-de-mysql)
 - [Características de MySQL](#caracterísitcas-de-mysql)
@@ -13,7 +13,7 @@
     - [View](#view)
     - [Procedures](#procedures)
     - [Triggers](#triggers)
-
+***
 ## Historia de MySQL
 - Crado por David Axmark, Allan Larsson y Michael Widenius.
 - Vieron la necesidad de una interfaz compatible.
