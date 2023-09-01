@@ -17,4 +17,4 @@
 - [VIEWS](/Notas/Contenido/13_views.md)
 - [Funciones](/Notas/Contenido/14_funciones.md)
 - [Practica1](/Notas/Contenido/15_practica1.md)
-- [Practia2]
+- [Practia2](/Notas/Contenido/16_practica2.md)
