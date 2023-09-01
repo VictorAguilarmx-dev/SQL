@@ -15,3 +15,6 @@
 - [UNIONS](/Notas/Contenido/11_unions.md)
 - [Subconsultas](/Notas/Contenido/12_subconsultas.md)
 - [VIEWS](/Notas/Contenido/13_views.md)
+- [Funciones](/Notas/Contenido/14_funciones.md)
+- [Practica1](/Notas/Contenido/15_practica1.md)
+- [Practia2]
