@@ -1,0 +1,3 @@
+CREATE DATABASE jugos2;
+
+DROP DATABASE jugos2;
