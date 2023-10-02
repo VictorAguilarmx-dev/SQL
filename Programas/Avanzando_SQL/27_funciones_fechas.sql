@@ -1,0 +1,36 @@
+USE jugos_ventas;
+
+-- Vemos la fecha actual
+SELECT CURDATE();
+
+-- Vemos la fecha actual con hora
+SELECT CURRENT_TIMESTAMP();
+
+-- Vemos el año
+SELECT YEAR(CURRENT_TIMESTAMP());
+
+-- Vemos el mes
+SELECT MONTH(CURRENT_TIMESTAMP());
+
+-- Vemos el día
+SELECT DAY(CURRENT_TIMESTAMP());
+
+-- Vemos el nombre del mes
+SELECT MONTHNAME(CURRENT_TIMESTAMP());
+
+-- Vemos el nombre del día
+SELECT DAYNAME(CURRENT_TIMESTAMP());
+
+SELECT DATEDIFF(CURRENT_TIMESTAMP(), '2021-01-01') AS RESULTADO;
+
+-- Diferencia de días
+SELECT DATEDIFF(CURRENT_TIMESTAMP(), '1984-06-20') AS RESULTADO;
+
+
+SELECT current_timestamp() AS DIA_HOY, 
+DATE_SUB(current_timestamp(), INTERVAL 1 MONTH) AS RESULTADO;
+
+
+SELECT DISTINCT FECHA_VENTA,
+DAYNAME(FECHA_VENTA) AS DIA, MONTHNAME(FECHA_VENTA) AS MES, 
+YEAR(FECHA_VENTA) AS AÑO FROM facturas;
